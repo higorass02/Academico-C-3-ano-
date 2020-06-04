@@ -1,0 +1,14 @@
+C:\Users\cabel\source\repos\Academico\Academico\bin\Debug\netcoreapp2.1\Academico.deps.json
+C:\Users\cabel\source\repos\Academico\Academico\bin\Debug\netcoreapp2.1\Academico.runtimeconfig.json
+C:\Users\cabel\source\repos\Academico\Academico\bin\Debug\netcoreapp2.1\Academico.runtimeconfig.dev.json
+C:\Users\cabel\source\repos\Academico\Academico\bin\Debug\netcoreapp2.1\Academico.dll
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.csprojAssemblyReference.cache
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.csproj.CoreCompileInputs.cache
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.RazorAssemblyInfo.cache
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.RazorAssemblyInfo.cs
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.AssemblyInfoInputs.cache
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.AssemblyInfo.cs
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.RazorTargetAssemblyInfo.cache
+C:\Users\cabel\source\repos\Academico\Academico\bin\Debug\netcoreapp2.1\Academico.pdb
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.dll
+C:\Users\cabel\source\repos\Academico\Academico\obj\Debug\netcoreapp2.1\Academico.pdb
